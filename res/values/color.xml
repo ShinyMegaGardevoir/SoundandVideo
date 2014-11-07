@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="goGreen">#3CB863</color>
+    <color name="pauseYellow">#DBE772</color>
+    <color name="stopRed">#B20E0E</color>
+    <color name="pink">#D068C1</color>
+    <color name="lightBlue">#07C0E7</color>
+    <color name="darkBlue">#0E07E7</color>
+    <color name="orange">#E3790C</color>
+    
+</resources>
